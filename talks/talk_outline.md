@@ -7,9 +7,9 @@ We're here to talk about how coaching is hard.
 
 We hope this talk is relevant for everyone. We'll be talking specifically about things coaches at codebar can try but to be honest we think you can apply these anytime you try to help anyone learn anything. 
 
-These tips have been gathered from a range of googling and personal experience, but majority is from 3 sources (codebar's coach guidelines, sarah mei's pairing with junior developers and mary-rose cooks blogs Why I coach and What I do when a student asks for help). 
+We were realy interested in how we can become better coaches, and have come up with some dos and donts from a range of googling and personal experience. The majority of these come from 3 sources (codebar's coach guidelines, sarah mei's pairing with junior developers and mary-rose cooks blogs Why I coach and What I do when a student asks for help). 
 
-What we found was a lot of best practices but a lot of what we found is about what 'not to do'.
+Lets start with some of our donts.
 
 ## Part 1 - Don't do this - Emmett
 
