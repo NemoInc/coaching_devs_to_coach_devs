@@ -1,15 +1,40 @@
-Intro
+## Intro
 
-This is relevant for everyone. We'll be addressing coaches. Even if you do not currently see yourself as a coach, you can use these principles when you do get to help people, and also we think you should know about  these effective ways of learning.
+Back when I was a hospital director, I was under huge financial pressure to keep hiring costs down whilst also hiring the best doctors. This all went out the window as soon as I saw a doctor with this symbol [insert teacher symbol]. Because this doctor is able to train other doctors in specialist skills. They can make surgeons. I don't care how much they cost, or how full their green bar is. They're working here. Because they single handedly reduced the hiring pressure for all other doctors.
 
-We've got some stuff here which is all about optimizing learning to be a developer.
+Get this symbol for yourself. You'll be invaluable.
 
-Here's our opinion based on our own research and experience that we think will help learners.
+This is relevant for everyone. We'll be addressing coaches. Even if you do not currently see yourself as a coach, you can use these behaviours when you do get to help people, and also we think you should know about these effective ways of learning.
 
+## Part 1 - Don't do this
+
+These have been gathered from a range of googling and personal experience, but majority is 3 sources (codebar, mary, sarah mei). Interestingly, a lot of what we found is about what 'not to do', as we're doing too much in our attempts to be helpful.
+
+*Don't give direct answers* - Socratic questioning. Finding out how to answer your own questions is huge.
 its not about the problem
 its not about completing
+If you give the answer you'll get the job done much quicker. But you won't be helping someone overcome their next problem when you're not there.
 
-we dont need another owl website
+## Part 2 - Don't do this
+
+*Don't stop them making mistakes* - got to learn. it is a great way of learning. debugging is a key skill; if you don't make a mistake and debug it yourself you can't get experience of debugging. it's so vital. even if it's a typo. let the typo happen and cause problems. it's life as a developer.
+
+## Part 3 - Please don't do this
+
+*Don't steal the keyboard* - it disempowers the learner. There will be tension - the learner will want you to do it, you'll want to do it. Be supportive, explain if need be why you're not going to. but don't do it.
+
+## Part 4 - Do this
+
+Emotionally support the learning
+Manage the tension and pressure of this situation. It's very vulnerable being in the position of a learner like this. Help them come back again next week. Every week.
+
+
+
+
+
+
+
+The world doesn't need another owl website. We desperately need more people with the skills to build this website.
 
 its about the core mindset
 
@@ -25,7 +50,7 @@ block skill acquisition
 prevents you from seeing the underlying problem the learner has
 that skill is not not knowing html syntax
 
-emotinoally support the learning
+
 
 learning is uncomfortable
 
@@ -44,11 +69,8 @@ optimal way to get skills to be developers
 
 
 
-Don't steal the keyboard - it disempowers the learner. There will be tension - the learner will want you to do it, you'll want to do it. Be supportive, explain if need be why you're not going to. but don't do it.
 
-Don't stop them making mistakes - got to learn. it is a great way of learning. debugging is a key skill; if you don't make a mistake and debug it yourself you can't get experience of debugging. it's so vital. even if it's a typo. let the typo happen and cause problems. it's life as a developer.
 
-Don't give direct answers - Socratic questioning. Finding out how to answer your own questions is huge.
 
 These can all come across as mean, or passive aggressive. Perhaps the learner will resent you holding back this knowledge for "no good reason". Give them a good reason.
 
@@ -59,12 +81,6 @@ Help them feel 'held'
 Be lovely. Be fascinated by them, their work they're doing, who they are a person. try to find what they can teach you.
 
 Call to action: if you're not already adhering to these three rules, please pick one and try to follow it next time you're coaching.
-
-We would love for you to pick this up for your time at Codebar. Here's another pitch for anyone coaching.
-
-Back when I was a hospital director, I was under huge financial pressure to keep hiring costs down whilst also hiring the best doctors. This all went out the window as soon as I saw a doctor with this symbol [insert teacher symbol]. Because this doctor is able to train other doctors in specialist skills. He can make surgeons. I don't care how much he costs, or how full his green bar is. He's working here. Because he single handedly reduced the hiring pressure for all other doctors.
-
-Get this symbol for yourself. You'll be invaluable.
 
 Philosophical closer:
 Be mindful. Have a think about it. Seriously. What is the point of coaching? What do you want to happen? What does the learner want? Why do we do the things we do?
