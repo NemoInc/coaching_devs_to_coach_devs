@@ -25,13 +25,25 @@ If you give the answer you'll get the job done much quicker. But you won't be he
 
 ## Part 4 - Do this
 
+Support them
 Emotionally support the learning
-Manage the tension and pressure of this situation. It's very vulnerable being in the position of a learner like this. Help them come back again next week. Every week.
+Manage the tension and pressure of this situation. It's very vulnerable being in the position of a learner like this. Help them want to come back again next week. Every week.
 
 
+Be there for them. They're in a very vulnearable situatin where they are failing in public for two hours. We are generally not well-practiced experienced ind doing this.
+
+Your job is to make them feel as safe as possible in an uncomfortable situatin. This is where they will be able to learn most effectively without fear of being judged. 
+
+Mary has a lovely phrase which is make them feel held.
 
 
+Be interested
+Ask them about themselves, what can they teach you?
+Find out about them as a person, what do they know lots about, be interested! this will lead to you establishing each other as social equals part of a community, and not simply teacher and student. 
 
+Someone who didn't make the website rather than someone who can't the website.
+
+Building resiliency. 
 
 
 The world doesn't need another owl website. We desperately need more people with the skills to build this website.
