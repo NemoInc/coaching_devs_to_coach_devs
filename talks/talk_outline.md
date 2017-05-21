@@ -3,11 +3,11 @@ Hello I'm Kevin, hello I'm Emmett
 
 __Kevin starts__
 
-We're here to talk about how coaching is hard. 
+We're here to talk about how coaching is hard.
 
-We hope this talk is relevant for everyone. We'll be talking specifically about things coaches at codebar can try but even if you do not currently see yourself as a coach, you can use these behaviours when you do get to help people. 
+We hope this talk is relevant for everyone. We'll be talking specifically about things coaches at codebar can try but to be honest we think you can apply these anytime you try to help anyone learn anything. 
 
-These have been gathered from a range of googling and personal experience, but majority is from 3 sources (codebar's coach guidelines, sarah mei's pairing with junior developers and mary-rose cooks blogs Why I coach and What I do when a student asks for help). 
+These tips have been gathered from a range of googling and personal experience, but majority is from 3 sources (codebar's coach guidelines, sarah mei's pairing with junior developers and mary-rose cooks blogs Why I coach and What I do when a student asks for help). 
 
 What we found was a lot of best practices but a lot of what we found is about what 'not to do'.
 
