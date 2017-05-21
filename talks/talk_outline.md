@@ -1,47 +1,63 @@
 ## Intro
+Hello I'm Kevin, hello I'm Emmett
 
 Back when I was a hospital director, I was under huge financial pressure to keep hiring costs down whilst also hiring the best doctors. This all went out the window as soon as I saw a doctor with this symbol [insert teacher symbol]. Because this doctor is able to train other doctors in specialist skills. They can make surgeons. I don't care how much they cost, or how full their green bar is. They're working here. Because they single handedly reduced the hiring pressure for all other doctors.
 
 Get this symbol for yourself. You'll be invaluable.
 
-This is relevant for everyone. We'll be addressing coaches. Even if you do not currently see yourself as a coach, you can use these behaviours when you do get to help people, and also we think you should know about these effective ways of learning.
+This is relevant for everyone. We'll be addressing coaches. Even if you do not currently see yourself as a coach, you can use these behaviours when you do get to help people.
 
-## Part 1 - Don't do this
+It also helps to think about why coaches might do these things during a session.
 
 These have been gathered from a range of googling and personal experience, but majority is 3 sources (codebar, mary, sarah mei). Interestingly, a lot of what we found is about what 'not to do', as we're doing too much in our attempts to be helpful.
 
-*Don't give direct answers* - Socratic questioning. Finding out how to answer your own questions is huge.
+## Part 1 - Don't do this
+
+**Don't give direct answers** - Socratic questioning. Finding out how to answer your own questions is huge.
 its not about the problem
 its not about completing
 If you give the answer you'll get the job done much quicker. But you won't be helping someone overcome their next problem when you're not there.
 
 ## Part 2 - Don't do this
 
-*Don't stop them making mistakes* - got to learn. it is a great way of learning. debugging is a key skill; if you don't make a mistake and debug it yourself you can't get experience of debugging. it's so vital. even if it's a typo. let the typo happen and cause problems. it's life as a developer.
+**Don't stop them making mistakes** - got to learn. it is a great way of learning. debugging is a key skill; if you don't make a mistake and debug it yourself you can't get experience of debugging. it's so vital. even if it's a typo. let the typo happen and cause problems. it's life as a developer.
 
 ## Part 3 - Please don't do this
 
-*Don't steal the keyboard* - it disempowers the learner. There will be tension - the learner will want you to do it, you'll want to do it. Be supportive, explain if need be why you're not going to. but don't do it.
+**Don't steal the keyboard** - it disempowers the learner. There will be tension - the learner will want you to do it, you'll want to do it. Be supportive, explain if need be why you're not going to. but don't do it.
 
 ## Part 4 - Do this
 
-Support them
+**Support them**
 Emotionally support the learning
 Manage the tension and pressure of this situation. It's very vulnerable being in the position of a learner like this. Help them want to come back again next week. Every week.
 
-
 Be there for them. They're in a very vulnearable situatin where they are failing in public for two hours. We are generally not well-practiced experienced ind doing this.
 
-Your job is to make them feel as safe as possible in an uncomfortable situatin. This is where they will be able to learn most effectively without fear of being judged. 
+Your job is to make them feel as safe as possible in an uncomfortable situation. This is where they will be able to learn most effectively without fear of being judged. 
 
 Mary has a lovely phrase which is make them feel held.
 
+## Part 5 - Also do this
 
-Be interested
+**Encourage a growth mindset**
+People are really mean to themselves - you can try to bring the mindset away from 'someone who can't make the website' and towards 'Someone who didn't make the website this time'.
+
+## Part 6 - Please do this
+
+**Be interested**
 Ask them about themselves, what can they teach you?
-Find out about them as a person, what do they know lots about, be interested! this will lead to you establishing each other as social equals part of a community, and not simply teacher and student. 
+Find out about them as a person, what do they know lots about, be interested! this will lead to you establishing each other as social equals part of a community, and not simply teacher and student.
 
-Someone who didn't make the website rather than someone who can't the website.
+## Outro
+
+Call to action: if you're not already adhering to these guidelines, please pick one and try to follow it next time you're coaching.
+
+Philosophical closer:
+
+Codebar has made this fantastic place. You have a phenomenal opportunity to have a pure learning environment. You'll rarely see that at work, as there'll be business pressures and deadlines, and no one seems to appreciate just how hard it is to facilitate learning. So make the most of it.
+
+## Unused notes
 
 Building resiliency. 
 
@@ -92,14 +108,8 @@ Help them feel 'held'
 
 Be lovely. Be fascinated by them, their work they're doing, who they are a person. try to find what they can teach you.
 
-Call to action: if you're not already adhering to these three rules, please pick one and try to follow it next time you're coaching.
 
-Philosophical closer:
-Be mindful. Have a think about it. Seriously. What is the point of coaching? What do you want to happen? What does the learner want? Why do we do the things we do?
 
-Codebar has made this fantastic place. You have a phenomenal opportunity to have a pure learning environment. You'll rarely see that at work, as there will be business pressures and deadlines, and no one seems to appreciate just how hard it is to facilitate learning. So make the most of it.
-
-This is an area we're really interested in and deliving into, so if you have any opinions on this, know any good resources or know someone who would be good for us to talk to, please talk to us/slack/twitter or whatever.
 
 
 Before Monday prezzie:
