@@ -9,7 +9,7 @@ Here's our opinion based on our own research and experience that we think will h
 its not about the problem
 its not about completing
 
-we dont need another fucking owl website
+we dont need another owl website
 
 its about the core mindset
 
