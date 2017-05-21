@@ -5,19 +5,19 @@ __Kevin starts__
 
 We're here to talk about how coaching is hard.
 
-We hope this talk is relevant for everyone. We'll be talking specifically about things coaches at codebar can try but to be honest we think you can apply these anytime you try to help anyone learn anything. 
+We hope this talk is relevant for everyone. We'll be talking specifically about things coaches at codebar can try but to be honest we think you can apply these anytime you try to help anyone learn anything.
 
-We were realy interested in how we can become better coaches, and have come up with some dos and donts from a range of googling and personal experience. The majority of these come from 3 sources (codebar's coach guidelines, sarah mei's pairing with junior developers and mary-rose cooks blogs Why I coach and What I do when a student asks for help). 
+We were realy interested in how we can become better coaches, and have come up with some dos and donts from a range of googling and personal experience. The majority of these come from 3 sources (codebar's coach guidelines, sarah mei's pairing with junior developers and mary-rose cooks blogs Why I coach and What I do when a student asks for help).
 
 Lets start with some of our donts.
 
 ## Part 1 - Don't do this - Emmett
 
-**Don't give direct answers** - We want to help them get every last bit of learning possible from the problem they're solving. If you give a direct answer you're robbing them of an opportunity to learn.
+**Don't give direct answers** - This is perfectly natural. Someone asks you a question, you can help them with the answer. The thing is we want to help them get every last bit of learning possible from the problem they're solving.
 
 Try to guide them towards finding the answer for themselves.
 
-If you give the answer you'll get the job done much quicker. But you won't be helping someone overcome their next problem when you're not there.
+If you give them the answer you'll get the job done much quicker but you'll also be robbing them of an opportunity to learn.
 
 ## Part 2 - Don't do this - Kevin
 
@@ -25,7 +25,8 @@ If you give the answer you'll get the job done much quicker. But you won't be he
 
 ## Part 3 - Please don't do this - Emmett
 
-**Don't steal the keyboard** - it disempowers the learner. Even if you know they need to fix some obscure environmental configuration, and it'll only take you ten seconds, don't touch the keyboard. Sit on your hands if necessary.
+**Don't steal the keyboard** - This might seem like strong language. But! If you think of it as stealing, you'll hopefully be less inclined to do it. This can disempower the learner, and the time saved isn't often going to be worth it.
+Even if it'll just take a second, don't touch the keyboard. Sit on your hands if necessary.
 
 ## Part 4 - Do this - Kevin
 
@@ -38,8 +39,7 @@ We want to reassure them - it's ok to struggle. Learning to code is really hard.
 ## Part 5 - Also do this - Emmett
 
 **Encourage a growth mindset**
-Explain what growth mindset is.
-People are really mean to themselves - you can try to bring the mindset away from 'someone who can't make the website' and towards 'Someone who didn't make the website this time'.
+Growth mindset: the understanding that abilities and intelligence can be developed. People are really mean to themselves when they're going through the pain of learning- you can try to bring the mindset away from 'I'm someone who can't make a website' and towards 'I'm someone who didn't make the website this time, but let's see how it goes next time'.
 
 ## Part 6 - Please do this - Kevin
 
@@ -49,8 +49,10 @@ Find out about them as a person, what do they know lots about,  what can they te
 
 ## Outro - Emmett
 
-Call to action: if you're not already adhering to these guidelines, please pick one and try to follow it next time you're coaching.
+So. That's Kev and Emmett's list of do's and don'ts of coaching. If you're not already adhering to these guidelines, please pick one and try to follow it next time you're coaching. Really hard. Even if you only manage it for five minutes.
 
 Philosophical closer:
 
-Codebar has made this fantastic place. You have a phenomenal opportunity to have a pure learning environment. You'll rarely see that at work, as there'll be business pressures and deadlines, and no one seems to appreciate just how hard it is to facilitate learning. So make the most of it. Go and investigate; here are the three resources we've drawn on for this.
+Codebar has made this fantastic place. You have a phenomenal opportunity to have a pure learning environment. There are no deadlines or other pesky business pressures to get in the way. So make the most of it.
+
+Go and investigate; here are the three resources we've drawn on for this.
