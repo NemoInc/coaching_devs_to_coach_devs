@@ -45,7 +45,7 @@ People are really mean to themselves - you can try to bring the mindset away fro
 
 **Be interested**
 Ask the learner about themselves,
-Find out about them as a person, what do they know lots about,  what can they teach you, ask thoughtful questions!  This can lead to you establishing each other as social equals, both members of this community, and not simply coach and student.
+Find out about them as a person, what do they know lots about,  what can they teach you, ask thoughtful questions! This can help move ye beyond the coach and student roles and you became two people sharing knowledge.
 
 ## Outro - Emmett
 
