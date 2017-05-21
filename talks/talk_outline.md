@@ -1,10 +1,6 @@
 ## Intro
 Hello I'm Kevin, hello I'm Emmett
 
-~~Back when I was a hospital director, I was under huge financial pressure to keep hiring costs down whilst also hiring the best doctors. This all went out the window as soon as I saw a doctor with this symbol [insert teacher symbol]. Because this doctor is able to train other doctors in specialist skills. They can make surgeons. I don't care how much they cost, or how full their green bar is. They're working here. Because they single handedly reduced the hiring pressure for all other doctors.
-
-~~Get this symbol for yourself. You'll be invaluable.
-
 __Kevin starts__
 
 We hope this talk is relevant for everyone. We'll be addressing coaches. Even if you do not currently see yourself as a coach, you can use these behaviours when you do get to help people.
