@@ -1,13 +1,13 @@
 ## Intro
 Hello I'm Kevin, hello I'm Emmett
 
-Back when I was a hospital director, I was under huge financial pressure to keep hiring costs down whilst also hiring the best doctors. This all went out the window as soon as I saw a doctor with this symbol [insert teacher symbol]. Because this doctor is able to train other doctors in specialist skills. They can make surgeons. I don't care how much they cost, or how full their green bar is. They're working here. Because they single handedly reduced the hiring pressure for all other doctors.
+~~Back when I was a hospital director, I was under huge financial pressure to keep hiring costs down whilst also hiring the best doctors. This all went out the window as soon as I saw a doctor with this symbol [insert teacher symbol]. Because this doctor is able to train other doctors in specialist skills. They can make surgeons. I don't care how much they cost, or how full their green bar is. They're working here. Because they single handedly reduced the hiring pressure for all other doctors.
 
-Get this symbol for yourself. You'll be invaluable.
+~~Get this symbol for yourself. You'll be invaluable.
 
 __Kevin starts__
 
-This is relevant for everyone. We'll be addressing coaches. Even if you do not currently see yourself as a coach, you can use these behaviours when you do get to help people.
+We hope this talk is relevant for everyone. We'll be addressing coaches. Even if you do not currently see yourself as a coach, you can use these behaviours when you do get to help people.
 
 It also helps to think about why coaches might do these things during a session.
 
@@ -15,7 +15,9 @@ These have been gathered from a range of googling and personal experience, but m
 
 ## Part 1 - Don't do this
 
-**Don't give direct answers** - Sometimes the problem isn't that they don't know the syntax, but rather there's an underlying gap in skills. Sure you can tell them the syntax. Or you could encourage them to seek the answers from Google.
+**Don't give direct answers** - We want to help them get every last bit of learning possible from the problem they're solving. If you give a direct answer you're robbing them of an opportunity to learn.
+
+Try to guide them towards finding the answer for themselves.
 
 If you give the answer you'll get the job done much quicker. But you won't be helping someone overcome their next problem when you're not there.
 
@@ -25,26 +27,20 @@ If you give the answer you'll get the job done much quicker. But you won't be he
 
 ## Part 3 - Please don't do this
 
-**Don't steal the keyboard** - This one is realy easy. it disempowers the learner. Even if you know they need to fix some obscure environmental configuration, and it'll only take you ten seconds, don't touch the keyboard. Tell them what to type if need be.
+**Don't steal the keyboard** - it disempowers the learner. Even if you know they need to fix some obscure environmental configuration, and it'll only take you ten seconds, don't touch the keyboard. Sit on your hands if necessary.
 
 ## Part 4 - Do this
 
 **Support them**
 
-The behaviours we've described can come across as hostile, or disinterested, or dismissive.
+Because it's really tough learning something in public, and failling in front of someone else. We want to make that uncomfrotable situation as tolerable as possible, so that they perservere and build resilience.
 
-Emotionally support the learning
-Manage the tension and pressure of this situation. It's very vulnerable being in the position of a learner like this. Help them want to come back again next week. Every week.
-
-Be there for them. They're in a very vulnearable situatin where they are failing in public for two hours. We are generally not well-practiced experienced ind doing this.
-
-Your job is to make them feel as safe as possible in an uncomfortable situation. This is where they will be able to learn most effectively without fear of being judged. 
-
-Mary has a lovely phrase which is make them feel held.
+We want to reassure them - it's ok to struggle. Coding is really hard. This kind of problem solving is really hard. You can explain why you're not giving direct answers, or taking the keyboard.
 
 ## Part 5 - Also do this
 
 **Encourage a growth mindset**
+Explain what growth mindset is.
 People are really mean to themselves - you can try to bring the mindset away from 'someone who can't make the website' and towards 'Someone who didn't make the website this time'.
 
 ## Part 6 - Please do this
@@ -61,58 +57,6 @@ __Kevin speaks__
 Philosophical closer:
 
 Codebar has made this fantastic place. You have a phenomenal opportunity to have a pure learning environment. You'll rarely see that at work, as there'll be business pressures and deadlines, and no one seems to appreciate just how hard it is to facilitate learning. So make the most of it.
-
-## Unused notes
-
-Building resiliency. 
-
-
-The world doesn't need another owl website. We desperately need more people with the skills to build this website.
-
-its about the core mindset
-
-its about skills
-
-behaviours block this
-
-youre not there to get
-
-gym metaphor
-
-block skill acquisition
-prevents you from seeing the underlying problem the learner has
-that skill is not not knowing html syntax
-
-
-
-learning is uncomfortable
-
-Nietzsche was striving to correct the belief that fulfillment must come easily or not at all, a belief ruinous in its effects, for it leads us to withdraw prematurely from challenges that might have been overcome if only we had been prepared for the savagery legitimately demanded by almost everything valuable.
-de Botton
-
-make learning is to make it tolerable
-
-to make as hard as it needs to be
-
-have to be a masochist
-
-wringing every possible learning out of the material
-
-optimal way to get skills to be developers
-
-
-
-
-
-
-These can all come across as mean, or passive aggressive. Perhaps the learner will resent you holding back this knowledge for "no good reason". Give them a good reason.
-
-Mary has this term of being 'held', meaning: [insert definition here]
-
-Help them feel 'held'
-
-Be lovely. Be fascinated by them, their work they're doing, who they are a person. try to find what they can teach you.
-
 
 
 
