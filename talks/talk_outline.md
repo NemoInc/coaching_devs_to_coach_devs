@@ -5,6 +5,8 @@ Back when I was a hospital director, I was under huge financial pressure to keep
 
 Get this symbol for yourself. You'll be invaluable.
 
+__Kevin starts__
+
 This is relevant for everyone. We'll be addressing coaches. Even if you do not currently see yourself as a coach, you can use these behaviours when you do get to help people.
 
 It also helps to think about why coaches might do these things during a session.
@@ -13,9 +15,8 @@ These have been gathered from a range of googling and personal experience, but m
 
 ## Part 1 - Don't do this
 
-**Don't give direct answers** - Socratic questioning. Finding out how to answer your own questions is huge.
-its not about the problem
-its not about completing
+**Don't give direct answers** - Sometimes the problem isn't that they don't know the syntax, but rather there's an underlying gap in skills. Sure you can tell them the syntax. Or you could encourage them to seek the answers from Google.
+
 If you give the answer you'll get the job done much quicker. But you won't be helping someone overcome their next problem when you're not there.
 
 ## Part 2 - Don't do this
@@ -24,11 +25,14 @@ If you give the answer you'll get the job done much quicker. But you won't be he
 
 ## Part 3 - Please don't do this
 
-**Don't steal the keyboard** - it disempowers the learner. There will be tension - the learner will want you to do it, you'll want to do it. Be supportive, explain if need be why you're not going to. but don't do it.
+**Don't steal the keyboard** - This one is realy easy. it disempowers the learner. Even if you know they need to fix some obscure environmental configuration, and it'll only take you ten seconds, don't touch the keyboard. Tell them what to type if need be.
 
 ## Part 4 - Do this
 
 **Support them**
+
+The behaviours we've described can come across as hostile, or disinterested, or dismissive.
+
 Emotionally support the learning
 Manage the tension and pressure of this situation. It's very vulnerable being in the position of a learner like this. Help them want to come back again next week. Every week.
 
@@ -53,6 +57,7 @@ Find out about them as a person, what do they know lots about, be interested! th
 
 Call to action: if you're not already adhering to these guidelines, please pick one and try to follow it next time you're coaching.
 
+__Kevin speaks__
 Philosophical closer:
 
 Codebar has made this fantastic place. You have a phenomenal opportunity to have a pure learning environment. You'll rarely see that at work, as there'll be business pressures and deadlines, and no one seems to appreciate just how hard it is to facilitate learning. So make the most of it.
