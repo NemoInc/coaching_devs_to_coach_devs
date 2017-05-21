@@ -33,7 +33,7 @@ If you give the answer you'll get the job done much quicker. But you won't be he
 
 Because it's really tough learning something in public, and failling in front of someone else. We want to make that uncomfrotable situation as tolerable as possible, so that they build the superpowers of perservere and build resilience.
 
-We want to reassure them - it's ok to struggle. Coding is really hard. This kind of problem solving is really hard. You might need to explain to them why you're not giving direct answers, why you want to help them figure it out for themselves.
+We want to reassure them - it's ok to struggle. Learning to code is really hard. You might need to explain to them why you're not giving direct answers, why you want to help them figure it out for themselves.
 
 ## Part 5 - Also do this - Emmett
 
