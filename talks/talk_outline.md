@@ -3,14 +3,13 @@ Hello I'm Kevin, hello I'm Emmett
 
 __Kevin starts__
 
-We're here to talk about how coaching is hard. 
+We're here to talk about how coaching is hard.
 
-We hope this talk is relevant for everyone. We'll be talking specifically about things coaches at codebar can try but even if you do not currently see yourself as a coach, you can use these behaviours when you do get to help people. You'd be surprised how quickly you'll be able to teach other learners.
+We hope this talk is relevant for everyone. We'll be talking specifically about things coaches at codebar can try but to be honest we think you can apply these anytime you try to help anyone learn anything. 
 
+We were realy interested in how we can become better coaches, and have come up with some dos and donts from a range of googling and personal experience. The majority of these come from 3 sources (codebar's coach guidelines, sarah mei's pairing with junior developers and mary-rose cooks blogs Why I coach and What I do when a student asks for help). 
 
-These have been gathered from a range of googling and personal experience, but majority is from 3 sources (codebar's coach guidelines, sarah mei's pairing with junior developers and mary-rose cooks blogs Why I coach and What I do when a student asks for help). 
-
-What we found was a lot of best practices but a lot of what we found is about what 'not to do'.
+Lets start with some of our donts.
 
 ## Part 1 - Don't do this - Emmett
 
@@ -22,7 +21,7 @@ If you give the answer you'll get the job done much quicker. But you won't be he
 
 ## Part 2 - Don't do this - Kevin
 
-**Don't stop them making mistakes** -  making mistakes is a great way of learning. debugging is a key skill, figuring out why things have not gone as you expected; if you don't make a mistake and debug it yourself they can't get that invaluable experience. it's so vital. even if it's a typo. actually especially if its a typo. you've got to let the typo happen and give them the opportunity to discover it.
+**Don't stop them making mistakes** -  making mistakes is a great way of learning. debugging is a key skill, figuring out why things have not gone as you expected; if they don't make the mistake and debug it themselves they can't get that invaluable experience. it's so vital. even if it's a typo. actually especially if its a typo. you've got to let the typo happen and give them the opportunity to discover it. and develop the skills to discover it again the next time it happens and the next time.
 
 ## Part 3 - Please don't do this - Emmett
 
@@ -34,7 +33,7 @@ If you give the answer you'll get the job done much quicker. But you won't be he
 
 Because it's really tough learning something in public, and failling in front of someone else. We want to make that uncomfrotable situation as tolerable as possible, so that they build the superpowers of perservere and build resilience.
 
-We want to reassure them - it's ok to struggle. Coding is really hard. This kind of problem solving is really hard. You might need to explain to them why you're not giving direct answers, why you want to help them figure it out for themselves.
+We want to reassure them - it's ok to struggle. Learning to code is really hard. You might need to explain to them why you're not giving direct answers, why you want to help them figure it out for themselves.
 
 ## Part 5 - Also do this - Emmett
 
@@ -46,7 +45,7 @@ People are really mean to themselves - you can try to bring the mindset away fro
 
 **Be interested**
 Ask the learner about themselves,
-Find out about them as a person, what do they know lots about,  what can they teach you, ask thoughtful questions!  This can lead to you establishing each other as social equals, both members of this community, and not simply coach and student.
+Find out about them as a person, what do they know lots about,  what can they teach you, ask thoughtful questions! This can help move ye beyond the coach and student roles and you became two people sharing knowledge.
 
 ## Outro - Emmett
 
