@@ -22,7 +22,7 @@ If you give the answer you'll get the job done much quicker. But you won't be he
 
 ## Part 2 - Don't do this - Kevin
 
-**Don't stop them making mistakes** -  making mistakes is a great way of learning. debugging is a key skill, figuring out why things have not gone as you expected; if you don't make a mistake and debug it yourself they can't get that invaluable experience. it's so vital. even if it's a typo. actually especially if its a typo. you've got to let the typo happen and give them the opportunity to discover it.
+**Don't stop them making mistakes** -  making mistakes is a great way of learning. debugging is a key skill, figuring out why things have not gone as you expected; if you don't make a mistake and debug it yourself they can't get that invaluable experience. it's so vital. even if it's a typo. actually especially if its a typo. you've got to let the typo happen and give them the opportunity to discover it. and develop the skills to discover it again the next time it happens and the next time.
 
 ## Part 3 - Please don't do this - Emmett
 
