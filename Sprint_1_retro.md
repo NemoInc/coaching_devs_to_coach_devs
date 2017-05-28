@@ -31,10 +31,10 @@ Ask them
 Look at unconference
 
 ## Ordered backlog for next sprint
-Find another two venues for the talk - e.g. Open Source Charities.
-Improve prezzie - it's very focused on Codebar. More context needed.
-Plan how to get participation from audience - decide on call-to-action/s and medium for this.
-Go to Xtreme Tuesdays meetup.
-Networking goal for Xtreme: talk to 3 XPers that I don't know about coaching.
-Figure out what to ask the authorites.
+Find another two venues for the talk - e.g. Open Source Charities.  
+Improve prezzie - it's very focused on Codebar. More context needed.  
+Plan how to get participation from audience - decide on call-to-action/s and medium for this.  
+Go to Xtreme Tuesdays meetup.  
+Networking goal for Xtreme: talk to 3 XPers that I don't know about coaching.  
+Figure out what to ask the authorites.  
 
